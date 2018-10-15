@@ -15,7 +15,7 @@
 
 .fighter-card-body {
 	padding: 0 $s-size;
-	background: #403d3d;
+	background-color: #403d3d;
 	// background: linear-gradient(180deg, rgba(64, 61, 61, 0.8) 0%, #403D3D 100%);
 	color: white;
 	
@@ -33,5 +33,4 @@
 	font-weight: 700;
 	display: flex;
 	justify-content: space-between;	
-	color: #c7c7c7;
 }
