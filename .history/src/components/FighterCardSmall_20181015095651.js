@@ -1,4 +1,5 @@
 import React from "react";
+import FlagIconFactory from "react-flag-icon-css";
 
 export default class FighterCardSmall extends React.Component {
   state = {
@@ -13,8 +14,7 @@ export default class FighterCardSmall extends React.Component {
         />
         <div className="fighter-card-body">
           <h1 className="fighter-card-body-name">Khabib Nurmagomedov</h1>
-          <p className="fighter-card-body-record">27-0<span className="flag-icon flag-icon-ru"></span></p>
-          
+          <p className="fighter-card-body-record">27-0</p>
         </div>
       </div>
     );

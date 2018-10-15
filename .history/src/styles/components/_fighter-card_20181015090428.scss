@@ -1,0 +1,15 @@
+.fighter-card {
+    max-width: 30rem;
+    margin-bottom: $m-size;
+}
+
+.fighter-card-image {
+	background: linear-gradient(0deg,
+		rgba(64, 61, 61, 1) 10%,
+		rgba(239, 52, 50, 1) 100%
+	);
+}
+
+.fighter-card-body {
+    padding: 0 $s-size;
+}

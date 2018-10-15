@@ -13,8 +13,7 @@ export default class FighterCardSmall extends React.Component {
         />
         <div className="fighter-card-body">
           <h1 className="fighter-card-body-name">Khabib Nurmagomedov</h1>
-          <p className="fighter-card-body-record">27-0<span className="flag-icon flag-icon-ru"></span></p>
-          
+          <p className="fighter-card-body-record">27-0<span className="flag-icon flag-icon-gr"></span></p>
         </div>
       </div>
     );
