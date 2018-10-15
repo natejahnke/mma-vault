@@ -2,18 +2,14 @@ import React from 'react';
 import AddOption from './AddOption';
 import Header from './Header';
 import FighterCardSmall from './FighterCardSmall';
-import lightweights from '../../lightweights.json';
+import lightweights from '../lightweights.json';
 import Options from './Options';
 import OptionModal from './OptionModal';
 
 export default class IndecisionApp extends React.Component {
   state = {
     options: [],
-    selectedOption: undefined,
-    lightweights
-  };
-  handleAddLightweights = () => {
-    this.setState(() => ({ lightweights: [] }));
+    selectedOption: undefined
   };
   handleDeleteOptions = () => {
     this.setState(() => ({ options: [] }));

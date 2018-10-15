@@ -8,7 +8,7 @@ const FighterCardSmall = (props) => (
         />
         <div className="fighter-card-body">
           <h1 className="fighter-card-body-name">{props.name}</h1>
-          <p className="fighter-card-body-record">{props.wins}-{props.losses}<span className="flag-icon flag-icon-ru"></span></p>
+          <p className="fighter-card-body-record">27-0<span className="flag-icon flag-icon-ru"></span></p>
           
         </div>
       </div>

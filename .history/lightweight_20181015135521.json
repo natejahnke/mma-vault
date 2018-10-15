@@ -1,0 +1,138 @@
+[
+    {
+      "rank": "C",
+      "weight_class": "Lightweight",
+      "name": "Khabib Nurmagomedov",
+      "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252F1%252F229%252FHeadshotPNGs%252FNURMAGOMEDOV_KHABIB.png?mw300-mh300-tc1",
+      "wins": 27,
+      "losses": 0,
+      "draws": 0
+    },
+    {
+      "rank": "1",
+      "weight_class": "Lightweight",
+      "name": "Tony Ferguson",
+      "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F1%252F229%252FHeadshotPNGs%252FFERGUSON_TONY.png?mw300-mh300-tc1",
+      "wins": 26,
+      "losses": 3,
+      "draws": 0
+    },
+    {
+      "rank": "2",
+      "weight_class": "Lightweight",
+      "name": "Conor McGregor",
+      "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252F1%252F229%252FHeadshotPNGs%252FMCGREGOR_CONOR.png?mw300-mh300-tc1",
+      "wins": 21,
+      "losses": 4,
+      "draws": 0
+    },
+    {
+      "rank": "3",
+      "weight_class": "Lightweight",
+      "name": "Dustin Poirier",
+      "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FDustin_Poirier%252FPOIRIER_DUSTIN.png?mw300-mh300-tc1",
+      "wins": 24,
+      "losses": 5,
+      "draws": 0
+    },
+    {
+        "rank": "4",
+        "weight_class": "Lightweight",
+        "name": "Eddie Alvarez",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FEddie_Alvarez%252FALVAREZ_EDDIE.png?mw300-mh300-tc1",
+        "wins": 29,
+        "losses": 6,
+        "draws": 0
+      },
+      {
+        "rank": "5",
+        "weight_class": "Lightweight",
+        "name": "Kevin Lee",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252Ffighter_images%252FKevin_Lee%252F1LEE_KEVIN.png?mw300-mh300-tc1",
+        "wins": 16,
+        "losses": 4,
+        "draws": 0
+      },
+      {
+        "rank": "6",
+        "weight_class": "Lightweight",
+        "name": "Edson Barboza",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252Ffighter_images%252FEdson_Barboza%252F1BARBOZA_EDSON.png?mw300-mh300-tc1",
+        "wins": 19,
+        "losses": 5,
+        "draws": 0
+      },
+      {
+        "rank": "7",
+        "weight_class": "Lightweight",
+        "name": "Justin Gaethje",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FJustin_Gaethje%252FGAETHJE_JUSTIN.png?mw300-mh300-tc1",
+        "wins": 19,
+        "losses": 2,
+        "draws": 0
+      },
+      {
+        "rank": "8",
+        "weight_class": "Lightweight",
+        "name": "Anthony Pettis",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252F1%252F229%252FHeadshotPNGs%252FPETTIS_ANTHONY.png?mw300-mh300-tc1",
+        "wins": 21,
+        "losses": 8,
+        "draws": 0
+      },
+      {
+        "rank": "9",
+        "weight_class": "Lightweight",
+        "name": "Al Iaquinta",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FAl_Iaquinta%252F1IAQUINTA_AL.png?mw300-mh300-tc1",
+        "wins": 13,
+        "losses": 4,
+        "draws": 1
+      },
+      {
+        "rank": "10",
+        "weight_class": "Lightweight",
+        "name": "Nate Diaz",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252Ffighter_images%252FNate_Diaz%252FDIAZ_NATE.png?mw300-mh300-tc1",
+        "wins": 20,
+        "losses": 11,
+        "draws": 0
+      },
+      {
+        "rank": "9",
+        "weight_class": "Lightweight",
+        "name": "Al Iaquinta",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FAl_Iaquinta%252F1IAQUINTA_AL.png?mw300-mh300-tc1",
+        "wins": 13,
+        "losses": 4,
+        "draws": 1
+      },
+      {
+        "rank": "9",
+        "weight_class": "Lightweight",
+        "name": "Al Iaquinta",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FAl_Iaquinta%252F1IAQUINTA_AL.png?mw300-mh300-tc1",
+        "wins": 13,
+        "losses": 4,
+        "draws": 1
+      },
+      {
+        "rank": "9",
+        "weight_class": "Lightweight",
+        "name": "Al Iaquinta",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FAl_Iaquinta%252F1IAQUINTA_AL.png?mw300-mh300-tc1",
+        "wins": 13,
+        "losses": 4,
+        "draws": 1
+      },
+      {
+        "rank": "9",
+        "weight_class": "Lightweight",
+        "name": "Al Iaquinta",
+        "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FAl_Iaquinta%252F1IAQUINTA_AL.png?mw300-mh300-tc1",
+        "wins": 13,
+        "losses": 4,
+        "draws": 1
+      }
+  ]
+  

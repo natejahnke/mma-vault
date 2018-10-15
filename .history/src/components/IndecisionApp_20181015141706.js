@@ -10,7 +10,7 @@ export default class IndecisionApp extends React.Component {
   state = {
     options: [],
     selectedOption: undefined,
-    lightweights
+    lightweights: ""
   };
   handleAddLightweights = () => {
     this.setState(() => ({ lightweights: [] }));
