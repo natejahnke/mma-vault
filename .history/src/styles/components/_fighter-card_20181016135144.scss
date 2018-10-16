@@ -26,8 +26,10 @@
 
 .fighter-card-body-name {
 	margin: 0;
+	padding-top: $s-size;
 	font-size: $l-size;
 	font-weight: 600;
+	line-height: 10%;
 }
 
 .wrap {

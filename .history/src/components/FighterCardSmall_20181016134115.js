@@ -7,11 +7,12 @@ const FighterCardSmall = (props) => (
           src={props.image} 
           className="fighter-card-image"
           />
+          {/* <div className="fighter-card-image-rank">1</div> */}
         </div>
           <div className="fighter-card-body">
             <div className="wrap">
               <div>
-                <p className="fighter-card-body-name">{props.first_name}</p>
+                <span className="fighter-card-body-name">{props.first_name}</span>
               </div>
               <div className="fighter-card-body-rank fighter-card-rank">{props.rank}</div>
             </div>

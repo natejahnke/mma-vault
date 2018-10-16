@@ -7,13 +7,12 @@ const FighterCardSmall = (props) => (
           src={props.image} 
           className="fighter-card-image"
           />
+          {/* <div className="fighter-card-image-rank">1</div> */}
         </div>
           <div className="fighter-card-body">
             <div className="wrap">
-              <div>
-                <p className="fighter-card-body-name">{props.first_name}</p>
-              </div>
-              <div className="fighter-card-body-rank fighter-card-rank">{props.rank}</div>
+              <p className="fighter-card-body-name">{props.first_name}</p>
+              <div className="fighter-card-body-rank">1</div>
             </div>
               <p className="fighter-card-body-name">{props.last_name}</p>
               <p className="fighter-card-body-record">{props.wins}-{props.losses}<span className="flag-icon flag-icon-ru"></span></p>

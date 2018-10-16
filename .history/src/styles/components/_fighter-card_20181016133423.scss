@@ -2,7 +2,6 @@
 	max-width: 30rem;
 	max-height: 311px;
 	min-height: 311px;
-	
 }
 
 .fighter-card-image {
@@ -21,7 +20,6 @@
 	// background: linear-gradient(180deg, rgba(64, 61, 61, 0.8) 0%, #403D3D 100%);
 	color: white;
 	min-height: 11.6rem;
-	
 }
 
 .fighter-card-body-name {
@@ -39,12 +37,12 @@
 	margin: 0;
 	font-size: $m-size;
 	font-weight: 600;
-	padding: $s-size 0 0 0;
+	padding: $s-size 0;
 }
 
 .fighter-card-body-record {
 	margin: 0;
-	padding: $s-size 0;
+	padding: $s-size ;
 	font-size: $m-size;
 	font-weight: 700;
 	display: flex;

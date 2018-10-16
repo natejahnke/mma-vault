@@ -1,8 +1,5 @@
 .fighter-card {
-	max-width: 30rem;
-	max-height: 311px;
-	min-height: 311px;
-	
+    max-width: 30rem;
 }
 
 .fighter-card-image {
@@ -15,31 +12,29 @@
 	border: none;
 }
 
+.fighter-card-image-container {
+    position: relative;
+    // text-align: center;
+    // color: white;
+}
+
+fighter-card-image-rank {
+	position: absolute;
+    top: 0;
+    left: 0;
+}
+
 .fighter-card-body {
 	padding: 0 $s-size;
 	background: #403d3d;
 	// background: linear-gradient(180deg, rgba(64, 61, 61, 0.8) 0%, #403D3D 100%);
 	color: white;
 	min-height: 11.6rem;
-	
 }
 
 .fighter-card-body-name {
 	margin: 0;
 	font-size: $l-size;
-	font-weight: 600;
-}
-
-.wrap {
-	justify-content: space-between;
-	display: flex;
-}
-
-.fighter-card-rank {
-	margin: 0;
-	font-size: $m-size;
-	font-weight: 600;
-	padding: $s-size 0 0 0;
 }
 
 .fighter-card-body-record {
