@@ -29,6 +29,7 @@ fighter-card-image-rank {
 .fighter-card-body-name {
 	margin: 0;
 	font-size: $l-size;
+	word-wrap: break-word;   
 }
 
 .fighter-card-body-record {

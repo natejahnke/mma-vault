@@ -1,0 +1,28 @@
+.container {
+  // max-width: 140rem;
+  // margin: 0 auto;
+  // padding: 0 $m-size;
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-auto-rows: 75px;
+}
+
+.container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  color: black;
+}
+
+.container > div > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+html, body {
+  background-color: #ffeead;
+  margin: 10px;
+}

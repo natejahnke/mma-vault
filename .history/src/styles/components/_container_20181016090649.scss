@@ -1,8 +1,8 @@
 .container {
   max-width: 140rem;
   margin: 0 auto;
-  padding: 0 $m-size;
+  // padding: 0 $m-size;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: .5rem;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }

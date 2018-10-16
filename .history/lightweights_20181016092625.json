@@ -112,8 +112,7 @@
       {
         "rank": "11",
         "weight_class": "Lightweight",
-        "first_name": "Michael",
-        "last_name": "Chiesa",
+        "name": "Michael Chiesa",
         "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FMichael_Chiesa%252FCHIESA_MICHAEL.png?mw300-mh300-tc1",
         "wins": 14,
         "losses": 4,
@@ -122,8 +121,7 @@
       {
         "rank": "12",
         "weight_class": "Lightweight",
-        "first_name": "James",
-        "last_name": "Vick",
+        "name": "James Vick",
         "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FJames_Vick%252FVICK_JAMES.png?mw300-mh300-tc1",
         "wins": 13,
         "losses": 2,
@@ -132,8 +130,7 @@
       {
         "rank": "13",
         "weight_class": "Lightweight",
-        "first_name": "Alexander",
-        "last_name": "Hernandez",
+        "name": "Alexander Hernandez",
         "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252Ffighter_images%252FAlexander_Hernandez%252FHERNANDEZ_ALEXANDER.png?mw300-mh300-tc1",
         "wins": 10,
         "losses": 1,
@@ -142,8 +139,7 @@
       {
         "rank": "14",
         "weight_class": "Lightweight",
-        "first_name": "Dan",
-        "last_name": "Hooker",
+        "name": "Dan Hooker",
         "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252Ffighter_images%252FDan_Hooker%252F1HOOKER_DAN.png?mw300-mh300-tc1",
         "wins": 18,
         "losses": 7,
@@ -152,8 +148,7 @@
       {
         "rank": "15",
         "weight_class": "Lightweight",
-        "first_name": "Francisco",
-        "last_name": "Trinaldo",
+        "name": "Francisco Trinaldo",
         "image": "http://imagec.ufc.com/http%253A%252F%252Fmedia.ufc.tv%252F%252F1%252FUFN_SaoPaulo_2018%252FHeadshotPNGs%252FTRINALDO_FRANCISCO.png?mw300-mh300-tc1",
         "wins": 23,
         "losses": 6,
