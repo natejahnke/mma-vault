@@ -1,10 +1,10 @@
 .header {
   background: #403d3d;
   color: white;
-  // margin-bottom: $m-size;
-  // padding-bottom: $m-size;
+  margin-bottom: $m-size;
+  // padding: $m-size 0;
   text-align: center;
-  // position: fixed;
+  position: fixed;
   z-index: 999;
   width: 100%;
 }
@@ -25,15 +25,15 @@
   box-sizing: border-box;
 }
 
-// .content {
-//   height: 200vh;
-//   background-image: url(//unsplash.it/1000/1000);
-//   background-color: #333;
-//   background-blend-mode: multiply;
-//   background-size: cover;
-//   display: grid;
-//   place-items: center;
-// }
+.content {
+  height: 200vh;
+  background-image: url(//unsplash.it/1000/1000);
+  background-color: #333;
+  background-blend-mode: multiply;
+  background-size: cover;
+  display: grid;
+  place-items: center;
+}
 
 /* changed this from the tutorial video to
    allow it to gain focus, making it tabbable */
@@ -195,6 +195,6 @@
 
 @media (min-width: $desktop-breakpoint) {
   .header {
-    margin-bottom: 10rem;
+    margin-bottom: $xl-size;
   }
 }

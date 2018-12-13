@@ -4,7 +4,7 @@
   // margin-bottom: $m-size;
   // padding-bottom: $m-size;
   text-align: center;
-  // position: fixed;
+  position: fixed;
   z-index: 999;
   width: 100%;
 }
@@ -138,7 +138,7 @@
     }
     
     .logo {
-      grid-column: 2 / 3;
+      grid-column: 2 / 4;
       color: white;
     }
     
@@ -195,6 +195,6 @@
 
 @media (min-width: $desktop-breakpoint) {
   .header {
-    margin-bottom: 10rem;
+    margin-bottom: $xl-size;
   }
 }

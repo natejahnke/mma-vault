@@ -4,7 +4,7 @@
   // margin-bottom: $m-size;
   // padding-bottom: $m-size;
   text-align: center;
-  // position: fixed;
+  position: fixed;
   z-index: 999;
   width: 100%;
 }
@@ -134,7 +134,7 @@
   
     .header {
       display: grid;
-      grid-template-columns: 1fr auto minmax(600px, 3fr) 1fr;
+      grid-template-columns: 1fr auto minmax(500px, 3fr) 1fr;
     }
     
     .logo {
@@ -195,6 +195,6 @@
 
 @media (min-width: $desktop-breakpoint) {
   .header {
-    margin-bottom: 10rem;
+    margin-bottom: $xl-size;
   }
 }

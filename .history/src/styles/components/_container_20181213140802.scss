@@ -1,11 +1,9 @@
 .container {
   // max-width: 140rem;
-  width: 1140px;
-  max-width: 100%;
   margin: 0 auto;
-  // padding: 0 $m-size;
+  padding: 0 $m-size;
   display: grid;
-  grid-gap: 20px;
+  grid-gap: 10px;
   // grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   // grid-template-rows: repeat(auto-fit, minmax(311px, 1fr));
   grid-template-rows: 311px 311px 311px 311px;
