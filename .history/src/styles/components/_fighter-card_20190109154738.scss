@@ -2,7 +2,7 @@
 	max-width: 30rem;
 	max-height: 311px;
 	min-height: 311px;
-	position: relative;
+	
 }
 
 .fighter-card-image {
@@ -39,11 +39,11 @@
 	margin: 0;
 	font-size: $m-size;
 	font-weight: 600;
-	padding: $s-size;
-	position: absolute;
-	left: 0;
-	top: 0;
-	color: white;
+	padding: $s-size 0 0 0;
+	position: relative;
+	left: 60%;
+	top: 10%;
+	z-index: 2;
 }
 
 .fighter-card-body-record {

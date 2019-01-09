@@ -39,11 +39,10 @@
 	margin: 0;
 	font-size: $m-size;
 	font-weight: 600;
-	padding: $s-size;
+	padding: $s-size 0 0 0;
 	position: absolute;
-	left: 0;
-	top: 0;
-	color: white;
+	left: 60%;
+	top: 1%;
 }
 
 .fighter-card-body-record {
