@@ -10,7 +10,7 @@
 }
 
 .header__title {
-  font-size: $l-size;
+  font-size: $s-size;
   margin: 0;
 }
 
@@ -140,7 +140,6 @@
     .logo {
       grid-column: 2 / 3;
       color: white;
-      font-size: $l-size;
     }
     
     nav {
