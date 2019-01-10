@@ -1,7 +1,7 @@
 import React from "react";
 
 const FighterCardSmall = props => (
-  <a href="#" className="hvr-grow">
+  <a href="#" className="hvr-grow-shadow">
     <div className="fighter-card">
       <div className="fighter-card-image-container">
         <img src={props.image} className="fighter-card-image" />
