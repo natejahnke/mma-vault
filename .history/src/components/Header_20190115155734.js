@@ -1,5 +1,4 @@
 import React from "react";
-import { NavLink, Link } from "react-router-dom";
 
 const Header = props => (
   <div className="header">
@@ -7,30 +6,12 @@ const Header = props => (
     <input type="checkbox" id="nav-toggle" className="nav-toggle" />
     <nav>
       <ul>
-        <li>
-          <Link to="/events">
-            <a href="#">Events</a>
-          </Link>
-        </li>
-        <li>
-          <Link to="/fighters">
-            <a href="#">Fighters</a>
-          </Link>
-        </li>
-        <li>
-          <Link to="/rankings">
-            <a href="#">Rankings</a>
-          </Link>
-        </li>
-        {/* <NavLink classname="li" to="/events">
-          Events
-        </NavLink>
-        <NavLink classname="li" to="/">
-          Fighters
-        </NavLink>
-        <NavLink classname="li" to="/rankings">
-          Rankings
-        </NavLink> */}
+        {/* <li><a href="#">Events</a></li>
+        <li><a href="#">Fighters</a></li>
+        <li><a href="#">Rankings</a></li> */}
+        <NavLink to="/events">Events</NavLink>
+        <NavLink to="/">Fighters</NavLink>
+        <NavLink to="/rankings">Rankings</NavLink>
       </ul>
     </nav>
     <label htmlFor="nav-toggle" className="nav-toggle-label">

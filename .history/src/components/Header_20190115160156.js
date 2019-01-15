@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink, Link } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const Header = props => (
   <div className="header">
@@ -8,29 +8,17 @@ const Header = props => (
     <nav>
       <ul>
         <li>
-          <Link to="/events">
-            <a href="#">Events</a>
-          </Link>
+          <a href="#">Events</a>
         </li>
         <li>
-          <Link to="/fighters">
-            <a href="#">Fighters</a>
-          </Link>
+          <a href="#">Fighters</a>
         </li>
         <li>
-          <Link to="/rankings">
-            <a href="#">Rankings</a>
-          </Link>
+          <a href="#">Rankings</a>
         </li>
-        {/* <NavLink classname="li" to="/events">
-          Events
-        </NavLink>
-        <NavLink classname="li" to="/">
-          Fighters
-        </NavLink>
-        <NavLink classname="li" to="/rankings">
-          Rankings
-        </NavLink> */}
+        {/* <NavLink to="/events">Events</NavLink>
+        <NavLink to="/">Fighters</NavLink>
+        <NavLink to="/rankings">Rankings</NavLink> */}
       </ul>
     </nav>
     <label htmlFor="nav-toggle" className="nav-toggle-label">

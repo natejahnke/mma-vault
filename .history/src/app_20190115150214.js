@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AppRouter from "./routers/AppRouter";
+import FightersHome from "./components/FightersHome";
 import "normalize.css/normalize.css";
 import "./styles/styles.scss";
 import "hover.css";
 
-ReactDOM.render(<AppRouter />, document.getElementById("app"));
+ReactDOM.render(<FightersHome />, document.getElementById("app"));

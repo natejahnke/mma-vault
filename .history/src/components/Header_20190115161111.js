@@ -8,19 +8,13 @@ const Header = props => (
     <nav>
       <ul>
         <li>
-          <Link to="/events">
-            <a href="#">Events</a>
-          </Link>
+          <a href="#">Events</a>
         </li>
         <li>
-          <Link to="/fighters">
-            <a href="#">Fighters</a>
-          </Link>
+          <a href="#">Fighters</a>
         </li>
         <li>
-          <Link to="/rankings">
-            <a href="#">Rankings</a>
-          </Link>
+          <a href="#">Rankings</a>
         </li>
         {/* <NavLink classname="li" to="/events">
           Events
