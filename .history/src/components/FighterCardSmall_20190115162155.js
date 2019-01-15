@@ -18,7 +18,7 @@ const FighterCardSmall = props => (
         <p className="fighter-card-body-name">{props.last_name}</p>
         <p className="fighter-card-body-record">
           {props.wins}-{props.losses}
-          <span title="Russia" className="flag-icon flag-icon-ru" />
+          <span className="flag-icon flag-icon-jp" />
         </p>
       </div>
     </div>
