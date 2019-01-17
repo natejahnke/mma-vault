@@ -72,7 +72,7 @@
 
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
-  content: "";
+  content: '';
   position: absolute;
 }
 
@@ -179,7 +179,7 @@ nav a:hover {
   }
 
   nav a::before {
-    content: "";
+    content: '';
     display: block;
     height: 5px;
     background: black;
@@ -198,6 +198,6 @@ nav a:hover {
 
 @media (min-width: $desktop-breakpoint) {
   .header {
-    margin-bottom: 10rem;
+    // margin-bottom: 10rem;
   }
 }

@@ -1,10 +1,12 @@
-import React from "react";
+import React from 'react';
+import FuturePastHeader from './FuturePastHeader';
+import EventPoster from './EventPoster';
 
 const EventsPage = () => (
-  <div className="container">
-    <div>
-      <h1>Events</h1>
-      <p>UFC 232</p>
+  <div>
+    <FuturePastHeader />
+    <div className='container'>
+      <EventPoster />
     </div>
   </div>
 );
